@@ -5,7 +5,7 @@ const intervalId = setInterval(sayDate, 1000, "hii")
 
 clearInterval(intervalId)
 
-//generate random color
+//generate random color.
 const randomColor = function () {
     const hex = '0123456789ABCDEF'
     let color = '#'

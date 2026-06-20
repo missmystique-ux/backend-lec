@@ -1,4 +1,4 @@
-//promises
+//promises.
 // fetch('http://something.com').then().catch().finally()
 const promiseOne = new Promise(function(resolve, reject){
 

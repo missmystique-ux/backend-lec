@@ -1,4 +1,4 @@
-// project with async await
+// project with async await.
 const sayPashma = function () {
     console.log("Pashma")
 }

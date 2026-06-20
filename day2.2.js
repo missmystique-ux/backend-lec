@@ -1,4 +1,4 @@
-//callbacks practise
+//callbacks practise.
 //  Simple Callback Function
 function fetchData(callback) {
     console.log("Data fetch ho raha hai...");
