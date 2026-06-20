@@ -1,4 +1,4 @@
-//de-structuring
+//de-structuring.
 const course = {
     couseName : "Javascript",
     coursePrice : 999,

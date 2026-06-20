@@ -1,4 +1,4 @@
-//template literals
+//template literals.
 const name = "Pashma"
 const repoCount = 50
 

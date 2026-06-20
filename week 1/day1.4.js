@@ -1,4 +1,4 @@
-//spread and rest(array and objects)
+//spread and rest(array and objects).
 //array rest
 function addNum(a,b,c,...other){
     // console.log(other)

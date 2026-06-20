@@ -1,4 +1,4 @@
-//Arrow functions
+//Arrow functions.
 const user = {
     username : "Pashma",
     price : 999,
