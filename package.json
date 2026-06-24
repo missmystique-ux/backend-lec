@@ -1,0 +1,27 @@
+{
+  "name": "backend-lec",
+  "version": "1.0.0",
+  "description": "This is my first node.js lec.",
+  "keywords": [
+    "practice",
+    "node"
+  ],
+  "homepage": "https://github.com/missmystique-ux/backend-lec#readme",
+  "bugs": {
+    "url": "https://github.com/missmystique-ux/backend-lec/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/missmystique-ux/backend-lec.git"
+  },
+  "license": "ISC",
+  "author": "Pashma",
+  "main": "day4.1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "slugify": "^1.6.9"
+  }
+}
